@@ -7,4 +7,7 @@
 🐍 Python — 10%
 
 🌐 HTML — 15%
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/861cd36c-2a36-4bb0-9962-9ed44dba5d51" />
+
+
+
+<img width="307" height="70" alt="image" src="https://github.com/user-attachments/assets/a02c450a-f3a6-404e-bb47-d34180efff25" />
